@@ -14,7 +14,7 @@ Pandas : 1.1.3
 ```
 
 # Output
-Deployed using Flask API.
+Deployment using Flask.
 
 
 ![27c00c98-a4fa-458e-8d95-7b7d4f2d7434](https://user-images.githubusercontent.com/84025317/211187004-d51e56c1-ec58-4ec0-b9d6-8ed9525e5ef5.jpg)
