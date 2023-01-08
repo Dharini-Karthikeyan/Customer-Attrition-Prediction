@@ -1,5 +1,5 @@
 # Customer-Attrition-Prediction
-Customer Attrition Prediction predicts the customer churn i.e., which customers are at high risk of leaving the company (or particular service) or if the customer is likely to continue.
+Customer Attrition Prediction predicts the customer churn i.e., which customers are at high risk of leaving the company(or particular service) or if the customer is likely to continue.
 
 # Dataset
 WA_Fn-UseC_-Telco-Customer-Churn.csv  
@@ -11,7 +11,6 @@ Python : 3.8.5
 Numpy : 1.23.3
 Seaborn : 0.11.0
 Pandas : 1.1.3
-
 ```
 
 # Output
